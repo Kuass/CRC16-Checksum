@@ -1,7 +1,7 @@
 # CRC-16_Calc
-C# 으로 계산하는 CRC-16 Checksum 알고리즘을 올려둡니다.
+C# 언어로 작성된 CRC-16 Checksum Encrypt/Decrypt 코드
 
-#### CRC-16/ARC
-ARC 알고리즘은 개인적으로 포인트를 모르는 것도 있고 구글링을 해도 c# 으로 되어 있는 소스를 찾지 못해 아주 애를 먹었습니다.
-
-혹시나 다른 어떤분께서 필요할 수 있으니 공유 합니다. :)
+### 지원 CRC-16 Checksum 종류
+- ARC
+- AUG-CCITT
+- MODBUS
